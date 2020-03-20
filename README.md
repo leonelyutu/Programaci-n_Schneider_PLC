@@ -54,5 +54,8 @@ Los objetos se direccionan mediante el prefijo %. Por ejemplo %MW12 es la direcc
 |           | %MW     | Palabras de memoria |Almacena la palabra de memoria de 16 bits |
 |           | %MD     | Palabras dobles de memoria |Almacena la palabra de memoria de 32 bits |
 |           | %MF     | Memoria de coma flotante |Almacena la coma flotante de memoria en un argumento matemático que tiene un decimal en su expresión |
-|           | %KW     | Palabras constantes |Almacena la coma flotante de memoria en un argumento matemático que tiene un decimal en su expresión |
+|           | %KW     | Comas flotantes constantess |Almacena la palabra constante de 16 bits |
+|           | %KD     | Palabras dobles constantes |Almacena la palabra constante de 32 bits |
+|           | %KF     | Palabras flotantes constantes |Almacena la coma flotante constante en un argumento matemático que contiene un decimal en su expresión. |
+
 
