@@ -51,4 +51,8 @@ Los objetos se direccionan mediante el prefijo %. Por ejemplo %MW12 es la direcc
 | Tipo de Objeto | Objetvo | Función del Objeto |Descripción |
 | :------- | :------: | -----: |-----: |
 |  Objetos de Memoria   | %M       | Bits de memoria   |Almacena el bit de memoria |
-| Item 2   | 3250     | 23,65€ |Precio |
+|           | %MW     | Palabras de memoria |Almacena la palabra de memoria de 16 bits |
+|           | %MD     | Palabras dobles de memoria |Almacena la palabra de memoria de 32 bits |
+|           | %MF     | Coma flotante de memoria |Almacena la palabra de memoria de 16 bits |
+
+
