@@ -31,3 +31,7 @@ El M221 Logic Controller se puede utilizar extremadamente mediante los metodos s
 ## Memoria 
 En esta tabla se describen los distintos tipos de memoria:
 
+| **Tipo de Memoria** | **Tamaño** | **Uso a** |
+| :------- | :------: | -----: |
+|  RAM   | 512 Kbytes de memoria RAM: 256 Kbytes para variaciones internas y 256 Kbytes para aplicación y datos       | Ejecutar la aplicación y contener datos   |
+| Item 2   | 3250     | 23,65€ |
