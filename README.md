@@ -53,6 +53,6 @@ Los objetos se direccionan mediante el prefijo %. Por ejemplo %MW12 es la direcc
 |  Objetos de Memoria   | %M       | Bits de memoria   |Almacena el bit de memoria |
 |           | %MW     | Palabras de memoria |Almacena la palabra de memoria de 16 bits |
 |           | %MD     | Palabras dobles de memoria |Almacena la palabra de memoria de 32 bits |
-|           | %MF     | Coma flotante de memoria |Almacena la palabra de memoria de 16 bits |
+|           | %MF     | Almacena la coma flotante de memoria en un argumento matemático que tiene un decimal en su expresión |
 
 
