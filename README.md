@@ -34,4 +34,4 @@ En esta tabla se describen los distintos tipos de memoria:
 | **Tipo de Memoria** | **Tamaño** | **Uso a** |
 | :------- | :------: | -----: |
 |  RAM   | 512 Kbytes de memoria RAM: 256 Kbytes para variaciones internas y 256 Kbytes para aplicación y datos       | Ejecutar la aplicación y contener datos   |
-| Item 2   | 3250     | 23,65€ |
+| No Volátil   | 1,5 Mbytes, de los cuales 256 Kbytes se utilizan para realizar una copia de seguridad de la aplicación y de los datos en caso de corte de alimentación     | Guardad la aplicación |
