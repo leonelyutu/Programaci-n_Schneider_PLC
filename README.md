@@ -35,3 +35,20 @@ En esta tabla se describen los distintos tipos de memoria:
 | :------- | :------: | -----: |
 |  RAM   | 512 Kbytes de memoria RAM: 256 Kbytes para variaciones internas y 256 Kbytes para aplicación y datos       | Ejecutar la aplicación y contener datos   |
 | No Volátil   | 1,5 Mbytes, de los cuales 256 Kbytes se utilizan para realizar una copia de seguridad de la aplicación y de los datos en caso de corte de alimentación     | Guardad la aplicación |
+
+## Objetos
+**Descripcion General**
+EcoStruxure Machine Expert - Basic, el término *Objeto* se utiliza para representar un área de le memoria del controlador lógico reservada para que la utilice en una aplicación. Los objetos pueden ser:
+
+* Variables de software simpes, como bits de memoria y palabras
+* Direcciones de las entradas y salidas digitales o analógicas
+* Variables internas del controlador, como palabras y bits del sistema.
+* Funciones predefinidas del sistema o de los bloques de funciones, como temporizadores y contadores.
+
+Los objetos solo pueden ser direccionados pro un programa una vez que se ha asignado memoria. 
+Los objetos se direccionan mediante el prefijo %. Por ejemplo %MW12 es la dirección de una palabra de memoria. %Q0.3 es la dirección de una salida digital incrustada y %TM0 es la dirección de un bloque de funciones Timer.
+
+| Tipo de Objeto | Objetvo | Función del Objeto |Descripción |
+| :------- | :------: | -----: |-----: |
+|  Objetos de Memoria   | %M       | Bits de memoria   |Almacena el bit de memoria |
+| Item 2   | 3250     | 23,65€ |Precio |
