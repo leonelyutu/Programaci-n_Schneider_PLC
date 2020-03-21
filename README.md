@@ -84,4 +84,12 @@ La modalidad de ejecución libre es una modalidad de exploración cíclica cont�
 * Reinicio por script
 * EL srcipt en una tarjeta SD puede emitir REBOOT como comando final.
 
+## Configuración de los generadores de pulsos
+
+### Introducción
+Los bloques de funciones de gneradores de pulsos, *Pulse (PLS), Pulse with Modulation (PWM), Pulse Train Output (PTO) y Frecuency Generator (FREQUEN) se utilizan para generar señales de onda cuadrada o modulada en los canales de salida especializada %Q0.0 o %Q0.1.
+
+Las salidas PWM tienen una señal de onda modulada con un ancho variable y un ciclo de servicio, mientras que las salidas PTO generan una onda cuadrada para controlar un motor paso a paso de un solo eje lineal o servounidad en modalidad de bucle abierto. El PLS tambien crea una onda cuadrada para un número programado de pulsos.
+
+
 
