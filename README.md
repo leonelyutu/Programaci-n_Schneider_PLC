@@ -71,5 +71,17 @@ La tarea maestra se puede configurar en las modalidades de exploración siguient
 * Modalidad de ejecición libre
 * Modalidad de ejecución peródica
 
+## Modalidades de Explocación
+
+La modalidad de ejecución libre es una modalidad de exploración cíclica contínua. En esta modalidad, una nueva exploración se inicia inmediatamente después de que la exploración previa se haya completado.
+
+## Transiciones de estado del Controlador
+### Arranque del Controlador
+**Efecto** : Da una orden de reinicio de logic controller. 
+
+**Métodos**
+* Apagado y encendido
+* Reinicio por script
+* EL srcipt en una tarjeta SD puede emitir REBOOT como comando final.
 
 
