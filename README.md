@@ -58,4 +58,18 @@ Los objetos se direccionan mediante el prefijo %. Por ejemplo %MW12 es la direcc
 |           | %KD     | Palabras dobles constantes |Almacena la palabra constante de 32 bits |
 |           | %KF     | comas flotantes constantes |Almacena la coma flotante constante en un argumento matemático que contiene un decimal en su expresión. |
 
+## Estructura de las Tareas
+
+El Modicon TM221M Logic Controller admite los siguientes tipos de tareas:
+
+* Tarea Maestra
+* Tarea Periódica
+* Tarea de eventos
+
+La tarea maestra se puede configurar en las modalidades de exploración siguientes:
+
+* Modalidad de ejecición libre
+* Modalidad de ejecución peródica
+
+
 
